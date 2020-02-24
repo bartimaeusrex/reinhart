@@ -17,7 +17,7 @@ Throughout that time I helped develop and design websites for an Americana band,
 - British comedy is my jam, especially the stuff PBS played 10-11pm weekdays back in the day
 - Doctor Who (classic preferred, but NuWho is fun, too)
 - Once upon a time, I was an Irish dancer
-- I am obsessed with typography (and have designed a couple myself)
+- I am obsessed with typography (and have designed a couple fonts myself)
 - The only gaming console I ever owned was the Atari 2600. Pitfall 2 FTW
 
 ### Fish are tasty. Especially blindingly exquisite fish
