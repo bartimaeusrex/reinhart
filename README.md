@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Hello! I'm Patrick Reinhart. How's it going?
 
-You can use the [editor on GitHub](https://github.com/bartimaeusrex/reinhart/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### My background
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a [graphic designer](http://mrpat.ch/) and constantly-developing web developer. I taught myself HTML starting from the moment we turned on our first family computer and I found out AOL provided a free whole 1mb space to make a webpage back in the late '90s (was it even as much as a megabyte?). Along the way I picked up some CSS. Thus, I grew up designing fan pages in raw HTML, often uploaded through FTP on places like FortuneCity and Tripod, and other long since defunct platforms. Similarly I have always been fascinated by the evolution of blogging platforms and social media (shoutouts to LiveJournal, Yahoo! Groups, Blogspot, Wordpress, Diaspora, Ello, Pillowfort, as well as the usual suspects). 
 
-### Markdown
+Throughout that time I helped develop and design websites for an Americana band, a Thai restaurant, a Waldorf school, [TenorGuitar.com](http://www.tenorguitar.com/), a startup company that designed interactive children's book apps, a costume shop, and last but not at all least, the bookstore [Tom The Book Guy](https://www.tomthebookguy.com/) where I worked for nearly seven years.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Curiouser House Publishing](https://curiouser.house/) is the company I am developing in my spare time, publishing classic literature and redesigning them from the ground up in uniform editions.
 
-```markdown
-Syntax highlighted code block
+### Hobbies and fun facts, mashed together like so many potatoes
 
-# Header 1
-## Header 2
-### Header 3
+- I play the tenor guitar, rhythm to my brother's Texas-style fiddle. Together, we are [The Reinhart Brothers](http://reinhartbrothers.bandcamp.com/)
+- I once designed a series of four billboards with antique post-mortem photographs
+- I have illustrated two children's picture books: [A St Nicholas Story, or The Fiercest Little Animal In The Forest](https://www.amazon.com/St-Nicholas-Story-Fiercest-Little/dp/0984309306) and [Thimble The Fairy's Acorns and Tea](https://www.amazon.com/Thimble-Fairys-Acorns-Tea-Fairy/dp/0982730403)
+- Book collecting!(/hoarding) and reading - I particularly enjoy fantastic literature of the mid-20th century and prior. Tolkien, Mervyn Peake, and James Branch Cabell are gods, as far as I'm concerned
+- British comedy is my jam, especially the stuff PBS played 10-11pm weekdays back in the day
+- Doctor Who (classic preferred, but NuWho is fun, too)
+- Once upon a time, I was an Irish dancer
+- I am obsessed with typography (and have designed a couple myself)
+- The only gaming console I ever owned was the Atari 2600. Pitfall 2 FTW
 
-- Bulleted
-- List
+### Fish are tasty. Especially blindingly exquisite fish
 
-1. Numbered
-2. List
+> “As I see it, life is an effort to grip before they slip through one's fingers and slide into oblivion, the startling, the ghastly or the blindingly exquisite fish of the imagination before they whip away on the endless current and are lost for ever in oblivion's black ocean.”
+> ― Mervyn Peake
 
-**Bold** and _Italic_ and `Code` text
+David Lynch agrees:
 
-[Link](url) and ![Image](src)
-```
+> “Ideas are like fish. If you want to catch little fish, you can stay in the shallow water. But if you want to catch the big fish, you've got to go deeper. Down deep, the fish are more powerful and more pure.”
+> ― David Lynch
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### I'm not hard to find
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bartimaeusrex/reinhart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Patrick Reinhart on LinkedIn](https://www.linkedin.com/in/mrpatrickreinhart/)
+- [MrPatch on Twitter](https://twitter.com/MrPatch)
+- [MrPatrickReinhart on Instagram](https://www.instagram.com/mrpatrickreinhart/)
+- [MrPatchMeansMe on Pinterest](https://pinterest.com/mrpatchmeansme/)
+- [The Art & Graphic Design of Mr Patch](https://mrpat.ch)
+- [MrPatch on GoodReads](https://www.goodreads.com/mrpatch)
+- [The Reinhart Brothers](https://reinhartbrothers.bandcamp.com/)
