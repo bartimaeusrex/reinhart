@@ -1,8 +1,10 @@
+![Image](https://curiouser.house/wp-content/uploads/2020/02/logo_bartimaeus-rex_small.png)
+
 ## Hello! I'm Patrick Reinhart. How's it going?
 
 ### My background
 
-I am a [graphic designer](http://mrpat.ch/) and constantly-developing web developer. I taught myself HTML starting from the moment we turned on our first family computer and I found out AOL provided a free whole 1mb space to make a webpage back in the late '90s (was it even as much as a megabyte?). Along the way I picked up some CSS. Thus, I grew up designing fan pages in raw HTML, often uploaded through FTP on places like FortuneCity and Tripod, and other long since defunct platforms. Similarly I have always been fascinated by the evolution of blogging platforms and social media (shoutouts to LiveJournal, Yahoo! Groups, Blogspot, Wordpress, Diaspora, Ello, Pillowfort, as well as the usual suspects). 
+I am a [graphic designer](http://mrpat.ch/) and constantly-developing web developer. I taught myself HTML starting from the moment we turned on our first family computer and I found out AOL provided a free whole 1mb space to make a webpage back in the late '90s (was it even as much as a megabyte?). Along the way I picked up some CSS. Thus, I grew up designing fan pages in raw HTML, often uploaded through FTP on places like FortuneCity and Tripod, and other long since defunct platforms. Similarly I have always been fascinated by the evolution of blogging platforms and social media (shoutouts to LiveJournal, Yahoo! Groups, Blogspot, Wordpress, Tumblr, Diaspora, Ello, Pillowfort, as well as the usual suspects). 
 
 Throughout that time I helped develop and design websites for an Americana band, a Thai restaurant, a Waldorf school, [TenorGuitar.com](http://www.tenorguitar.com/), a startup company that designed interactive children's book apps, a costume shop, and last but not at all least, the bookstore [Tom The Book Guy](https://www.tomthebookguy.com/) where I worked for nearly seven years.
 
