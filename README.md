@@ -1,5 +1,3 @@
-![Image](https://curiouser.house/wp-content/uploads/2020/02/logo_bartimaeus-rex_small.png)
-
 ## Hello! I'm Patrick Reinhart. How's it going?
 
 ### My background
@@ -35,9 +33,4 @@ David Lynch agrees:
 ### I'm not hard to find
 
 - [Patrick Reinhart on LinkedIn](https://www.linkedin.com/in/mrpatrickreinhart/)
-- [MrPatch on Twitter](https://twitter.com/MrPatch)
 - [MrPatrickReinhart on Instagram](https://www.instagram.com/mrpatrickreinhart/)
-- [MrPatchMeansMe on Pinterest](https://pinterest.com/mrpatchmeansme/)
-- [The Art & Graphic Design of Mr Patch](https://mrpat.ch)
-- [MrPatch on GoodReads](https://www.goodreads.com/mrpatch)
-- [The Reinhart Brothers](https://reinhartbrothers.bandcamp.com/)
